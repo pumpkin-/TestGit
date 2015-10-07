@@ -27,3 +27,4 @@ proguard/
 *.log
 
 TestGit/.idea/libraries/
+TestGit/.idea/workspace.xml
